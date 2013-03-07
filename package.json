@@ -1,0 +1,20 @@
+{
+  "author": "Adrian Statescu <http://thinkphp.ro>",
+  "name": "slideshare",
+  "description": "SlideShare API Wrapper for Node.js",
+  "version": "0.1.1",
+  "homepage": "http://github.com/thinkphp/node-slideshare",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/thinkphp/node-slideshare.git"
+  },
+  "main": "lib/slideshare.js",
+  "dependencies": {
+      "restler": ""
+    },
+  "devDependencies": {},
+  "optionalDependencies": {},
+  "engines": {
+    "node": "*"
+  }
+}
