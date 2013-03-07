@@ -5,6 +5,8 @@ Wrapper SlideShare REST API for Node.js
 # Installation
 
 ```
+$ git clone git://github.com/thinkphp/node-slideshare.git
+
 $ npm install node-slideshare
 ```
 
