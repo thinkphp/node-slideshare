@@ -14,7 +14,7 @@ $ npm install node-slideshare
 
 ```js
 
-   var require("slideshare");
+   var SlideShare = require("slideshare");
 
    var s = new SlideShare("api-key", "shared_secret");
 
